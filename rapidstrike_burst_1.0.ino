@@ -5,8 +5,6 @@
 
 #include <Bounce2.h>
 
-//Single fire werkt, en opmerkelijk genoeg: bij vast blijven houden gaat ie door in FA. Mogelijk handig?
-//Mogelijk relaxter om een xp180 als pusher te zetten en de speed van de pusher te kunnen beinvloeden?
 // Serial.write makes the program significantly laggy, system doesn't correctly hold back the pusher anymore. But, good for debugging. So comment the lines out once done.
 
 // set constants
